@@ -2,8 +2,6 @@
   <img src="docs/assets/logo.png" alt="Ivy Logo" width="300"/>
 </p>
 
-<h1 align="center">🌿 Ivy</h1>
-
 <p align="center">
   <em>Scalable, declarative, and enterprise-grade web scraping framework for Python.</em>
 </p>
@@ -27,7 +25,7 @@
 
 ## 🧭 Overview
 
-**Ivy** is an open-source **scalable data acquisition framework** — designed to help developers and enterprises **build, run, and monitor large numbers of web scrapers**.
+🌿 **Ivy** is an open-source **scalable data acquisition framework** — designed to help developers and enterprises **build, run, and monitor large numbers of web scrapers**.
 
 It’s built with **Python**, has **modern developer tooling**, and a strong focus on **observability, reliability, and extensibility**.
 
