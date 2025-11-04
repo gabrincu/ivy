@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/logo.png" alt="Ivy Logo" width="120"/>
+  <img src="docs/assets/logo.png" alt="Ivy Logo" width="300"/>
 </p>
 
 <h1 align="center">🌿 Ivy</h1>
