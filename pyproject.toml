@@ -4,4 +4,26 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "aiohttp>=3.13.2",
+    "httpx>=0.28.1",
+    "pydantic>=2.12.3",
+    "rnet>=2.4.2",
+    "sqlalchemy>=2.0.44",
+    "structlog>=25.5.0",
+    "typer>=0.20.0",
+]
+
+[dependency-groups]
+dev = [
+    "mypy>=1.18.2",
+    "pytest>=8.4.2",
+    "ruff>=0.14.3",
+]
+
+[tool.ruff]
+line-length = 100
+select = ["E", "F", "W", "C", "B"]
+
+[tool.mypy]
+strict = true
